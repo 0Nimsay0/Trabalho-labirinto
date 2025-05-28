@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimsay\\Documents\\Labirinto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B836BFC8-D1D3-4F2E-B338-423B9CA77A7B}|Labirinto\\Labirinto.csproj|c:\\users\\nimsay\\documents\\labirinto\\labirinto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B836BFC8-D1D3-4F2E-B338-423B9CA77A7B}|Labirinto\\Labirinto.csproj|solutionrelative:labirinto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimsay\\Documents\\Labirinto\\Labirinto\\Program.cs",
+              "RelativeDocumentMoniker": "Labirinto\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimsay\\Documents\\Labirinto\\Labirinto\\Program.cs",
+              "RelativeToolTip": "Labirinto\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwHgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:08:40.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
